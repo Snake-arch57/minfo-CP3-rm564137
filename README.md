@@ -1,1 +1,8 @@
-# minfo-CP3-rm564137
+# Coletor de dados - Script
+## Esse script coleta alguns dados com base no argumento especificado pelo usuário (hostaname, uptime, disk, all)
+## 
+### Exemplos
+`./minfo.sh hostname - mostra nome de máquina`
+`./minfo.sh uptime - mostra o tempo que a máquina está ligada`
+`./minfo.sh disk - mostra informações do disco `
+`./minfo.sh all - mostra as três opções acima `
